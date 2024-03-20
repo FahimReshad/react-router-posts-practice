@@ -1,0 +1,4 @@
+nav a.active{
+    color: peru;
+    border-radius: 5px;
+}
