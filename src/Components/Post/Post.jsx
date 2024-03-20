@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 import { Link, useNavigate } from "react-router-dom";
-
 const Post = ({ post }) => {
   const { id, title, body } = post;
   const navigate = useNavigate();
